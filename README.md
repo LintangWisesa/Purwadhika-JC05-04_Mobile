@@ -18,9 +18,9 @@ No.|Modul|Unduh
 - React Native Fundamental Development
 - React Native Basic Components
 - React Native Elements
-- React Native Navigation
-- React Native Animatable
 - NativeBase
+- React Native Animatable
+- React Native Navigation
 - Accessing API Using Axios
 - Google Maps API
 - Local Push Notification
