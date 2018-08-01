@@ -23,6 +23,7 @@ No.|Modul|Unduh
 - React Native Navigation
 - Accessing API Using Axios
 - Google Maps API
+- Mapbox Maps Platform
 - Local Push Notification
 - OneSignal Push Notification
 
